@@ -19,7 +19,7 @@ const AboutFive = () => {
                     <div className="section-heading heading-left">
                         <span className="subtitle">Our Team</span>
                         <h2>Alone we can do so little; together we can do so much.</h2>  
-                        <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero.</p>
+                        <p>We believe that collaboration is key to driving innovation and success in IT and digital marketing. Alone, we can achieve little, but together, we can achieve great things for our clients and the industry.</p>
                         <Link to="#" className="axil-btn btn-large btn-fill-primary">Our Team</Link>
                     </div>
                     </div>

@@ -21,7 +21,7 @@ const AboutUs = () => {
                 <HeaderOne />
                 <BcrumbBannerOne 
                 title="One of the fastest growing agency"
-                paragraph ="We design and develop web and mobile applications for our clients worldwide."
+                paragraph ="IT agency specializing in innovative solutions and digital transformation, experiencing significant growth and expansion in the industry."   
                 styleClass="thumbnail-4"
                 mainThumb="/images/project/about-1.png"
                 />

@@ -16,12 +16,12 @@ const FooterOne = ({parentClass}) => {
                         <ul className="list-unstyled">
                             <li><Link to="https://facebook.com/"><FaFacebookF /></Link></li>
                             <li><Link to="https://twitter.com/"><FaTwitter /></Link></li>
-                            <li><Link to="https://www.pinterest.com/"><FaPinterestP /></Link></li>
+                            {/* <li><Link to="https://www.pinterest.com/"><FaPinterestP /></Link></li> */}
                             <li><Link to="https://www.linkedin.com/"><FaLinkedin /></Link></li>
                             <li><Link to="https://www.instagram.com/"><FaInstagram /></Link></li>
-                            <li><Link to="https://vimeo.com/"><FaVimeoV /></Link></li>
-                            <li><Link to="https://dribbble.com/"><FaDribbble /></Link></li>
-                            <li><Link to="https://www.behance.net/"><FaBehance /></Link></li>
+                            {/* <li><Link to="https://vimeo.com/"><FaVimeoV /></Link></li> */}
+                            {/* <li><Link to="https://dribbble.com/"><FaDribbble /></Link></li> */}
+                            {/* <li><Link to="https://www.behance.net/"><FaBehance /></Link></li> */}
                         </ul>
                     </div>
                 </div>

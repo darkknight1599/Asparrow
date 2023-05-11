@@ -5,27 +5,29 @@ const Datas = [
     {
         id: 1,
         title: "Exceed clients’ and colleagues’ expectations",
-        para: "Ut id orci ultricies, gravida arcu ac, elementum eros. Curabitur tortor ipsum, imperdiet eget odio ac, faucibus ultricies nisl. Maecenas scelerisque dignissim elit."
+        para: "At our company, we strive to exceed client and colleagues' expectations by delivering high-quality IT and digital marketing solutions that drive growth, innovation, and success for all stakeholders involved."
     },
     {
         id: 2,
         title: "Take ownership and question the status quo in a constructive manner",
-        para: "Nulla facilisi. Vestibulum vel urna eget magna condimentum faucibus. Sed arcu mi, semper sed suscipit vel, rhoncus vel justo."
+        para: "We encourage our team to take ownership of their work, constantly question the status quo, and propose constructive solutions that drive innovation and growth in IT and digital marketing."
+
+
     },
     {
         id: 3,
         title: "Be brave, curious and experiment – learn from all successes and failures",
-        para: "Quisque aliquet quis est in faucibus. Aenean eget lorem ac risus placerat convallis eget a eros. Suspendisse dignissim ultrices tellus, id placerat mauris lacinia a."
+        para: "We foster a culture of bravery, curiosity, and experimentation, where our team is encouraged to learn from both successes and failures to drive continuous improvement and innovation in IT and digital marketing."
     },
     {
         id: 4,
         title: "Act in a way that makes all of us proud",
-        para: "Proin dignissim facilisis tortor a mattis. Morbi non maximus nunc, ut mattis tellus. In hac habitasse platea dictumst. Mauris viverra enim tellus, vel ultrices dolor aliquam non."
+        para: "We hold ourselves to high ethical standards and act in a way that makes us all proud, delivering impactful IT and digital marketing solutions that positively impact our clients, colleagues, and the community."
     },
     {
         id: 5,
         title: "Build an inclusive, transparent and socially responsible culture",
-        para: "Maecenas eros sapien, egestas at elit nec, eleifend sagittis orci."
+        para: "We are committed to building an inclusive, transparent, and socially responsible culture that celebrates diversity and drives positive change in IT and digital marketing, both within our company and the wider community."
     }
 ]
 
@@ -39,7 +41,7 @@ const AboutThree = () => {
                 <SectionTitle 
                     subtitle="Our Valus"
                     title="Why should you work with us?"
-                    description="Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue sed eu leo eget risus imperdiet."
+                    description="We are a dynamic team of experts, dedicated to delivering innovative and effective IT and digital marketing solutions for your business's success."
                     textAlignment="heading-left heading-light-left mb--100"
                     textColor=""
                 />

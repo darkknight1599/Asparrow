@@ -32,8 +32,9 @@ const ServiceOne = () => {
             <HeaderOne />
             <BcrumbBannerOne 
                 title="Best solutions for your business"
-                paragraph ="Give your business a unique logo to stand out from crowd. We’ll create logo specifically for your company.
-                "
+                paragraph ="Our tailored IT and digital marketing solutions are designed to drive growth and success for your business. Let us help you achieve your goals."
+
+
                 styleClass=""
                 mainThumb="/images/project/service-1.png"
             />
