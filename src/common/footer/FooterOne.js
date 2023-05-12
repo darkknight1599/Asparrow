@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { FaFacebookF, FaTwitter, FaPinterestP, FaLinkedin, FaInstagram, FaVimeoV, FaDribbble, FaBehance, FaEnvelopeOpen } from "react-icons/fa";
 import ServiceData from "../../data/service/ServiceMain.json";
 import { slugify } from '../../utils';
+import img from '../../assets/logoo/top-website-development-companies.svg'
 
 const getServiceData = ServiceData;
 
@@ -55,11 +56,13 @@ const FooterOne = ({parentClass}) => {
                                                     </li>
                                                 ))}
                                             </ul>
-                                        </div>
+                                        </div>  
                                     </div>
                                 </div>
-                                {/* <div className="col-sm-3">
-                                    <div className="footer-widget">
+
+                                
+                                <div className="col-sm-3">
+                                    {/* <div className="footer-widget">
                                         <h6 className="widget-title">Resourses</h6>
                                         <div className="footer-menu-link">
                                             <ul className="list-unstyled">
@@ -67,9 +70,13 @@ const FooterOne = ({parentClass}) => {
                                                 <li> <Link to={process.env.PUBLIC_URL + "/case-study"}>Case Studies</Link></li>
                                                 <li><Link to={process.env.PUBLIC_URL + "/project-grid-one"}>Portfolio</Link></li>
                                             </ul>
-                                        </div> */}
-                                    {/* </div>
-                                </div> */}
+                                        </div>
+                                    </div> */}
+                                    
+                                <div>
+                                <div><a target="_blank" href="https://www.goodfirms.co/company/asparrow-tech"><img src={img} height='400px' width='400px' alt=" Company"/></a></div>
+                                </div>
+                                </div>
                                 {/* <div className="col-sm-3">
                                     <div className="footer-widget">
                                         <h6 className="widget-title">Support</h6>
