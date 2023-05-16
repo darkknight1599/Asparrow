@@ -2,7 +2,7 @@
   "name": "asparrowtech",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/darkknight1599/Asparrow",
+  "homepage": "./build/index.html",
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
     "@testing-library/jest-dom": "^5.16.1",
